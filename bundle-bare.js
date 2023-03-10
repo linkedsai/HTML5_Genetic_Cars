@@ -177,15 +177,15 @@ cw_resetWorld();
 
 },{"./draw/plot-graphs.js":6,"./generation-config":10,"./machine-learning/genetic-algorithm/manage-round.js":14,"./machine-learning/simulated-annealing/manage-round.js":16,"./world/run.js":17}],2:[function(require,module,exports){
 module.exports={
-  "wheelCount": 2,
-  "wheelMinRadius": 0.2,
-  "wheelRadiusRange": 0.5,
+  "wheelCount": 3,
+  "wheelMinRadius": 0.4,
+  "wheelRadiusRange": 0.6,
   "wheelMinDensity": 40,
   "wheelDensityRange": 100,
-  "chassisDensityRange": 300,
-  "chassisMinDensity": 30,
-  "chassisMinAxis": 0.1,
-  "chassisAxisRange": 1.1
+  "chassisDensityRange": 350,
+  "chassisMinDensity": 35,
+  "chassisMinAxis": 0.2,
+  "chassisAxisRange": 2.1
 }
 
 },{}],3:[function(require,module,exports){
